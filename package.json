@@ -1,6 +1,6 @@
 {
 	"name": "@roborox/marker-tree",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Marker tree utility",
 	"repository": {
 		"url": "https://github.com/roborox/marker-tree.git"
