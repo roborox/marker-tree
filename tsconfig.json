@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"module": "esnext",
+		"target": "es5",
+		"lib": ["ES5", "ES6", "ES7", "DOM"],
+		"skipLibCheck": true,
+		"importHelpers": true,
+		"strict": true,
+		"noImplicitReturns": true,
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"resolveJsonModule": true,
+		"typeRoots": ["node_modules/@types"]
+	},
+	"include": [
+		"src/**/*",
+	]
+}
