@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/roborox/marker-tree/compare/v1.0.2...v1.0.3) (2020-08-18)
+
+
+### Bug Fixes
+
+* fix package json ([82841c2](https://github.com/roborox/marker-tree/commit/82841c2f3bbd3faac3d3e250442ea3e90ebab373))
+
 ## [1.0.2](https://github.com/roborox/marker-tree/compare/v1.0.1...v1.0.2) (2020-08-17)
 
 
