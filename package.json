@@ -14,8 +14,8 @@
 	"module": "esm/index.js",
 	"types": "declarations/index.d.ts",
 	"files": [
-		"./esm",
-		"./declarations"
+		"esm",
+		"declarations"
 	],
 	"scripts": {
 		"build": "ts-node --project scripts/tsconfig.json ./scripts/build/bin.ts",
